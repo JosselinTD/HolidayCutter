@@ -1,0 +1,21 @@
+{
+  "name": "holidaycutter",
+  "version": "0.0.1",
+  "description": "A service to split holiday by months",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Josselin TILLAY",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.32.0",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-n": "^15.6.1",
+    "eslint-plugin-promise": "^6.1.1",
+    "jest": "^29.4.0",
+    "prettier": "2.8.3"
+  }
+}
