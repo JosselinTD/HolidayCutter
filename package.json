@@ -4,6 +4,7 @@
   "description": "A service to split holiday by months",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "jest"
   },
   "author": "Josselin TILLAY",
@@ -17,5 +18,8 @@
     "eslint-plugin-promise": "^6.1.1",
     "jest": "^29.4.0",
     "prettier": "2.8.3"
+  },
+  "dependencies": {
+    "fastify": "^4.12.0"
   }
 }
