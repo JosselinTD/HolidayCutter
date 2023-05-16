@@ -24,3 +24,4 @@ The project follow the [Clean Architecture](https://blog.cleancoder.com/uncle-bo
 ### Linting and formatting
 
 The linter used for this project is ESLint (see the `.eslintrc.json` file) plus Prettier for code formatting (see the `.prettierrc.json` file). You can find extension for you code editor to handle these tools automatically. Every contribution should be linted and formatted following theses rules.
+XO
